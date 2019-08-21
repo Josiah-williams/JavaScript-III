@@ -5,7 +5,7 @@ This challenge focuses on using the `this` keyword as well as getting comfortabl
 ## Set Up The Project With Git
 
 **Follow these steps to set up and work on your project:**
-
+/explicit!
 * [ ] Create a forked copy of this project.
 * [ ] Add your project manager as collaborator on Github.
 * [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
